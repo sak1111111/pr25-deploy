@@ -11,13 +11,13 @@
 https://pr25-deploy-2.onrender.com - ссылка
 
 1.1. Структура проекта
-
 your-project/
-├── package.json
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+-package.json
+-index.html
+-style.css
+-script.js
+-README.md
+
 1.2. Настройка package.json
 json
 {
