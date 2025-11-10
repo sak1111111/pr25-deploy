@@ -6,9 +6,7 @@
 
 \- `client/` - React фронтенд приложение
 
-\- `server/` - Express.js бэкенд приложение - https://pr25-deploy-2.onrender.com
-
-https://pr25-deploy-2.onrender.com - ссылка
+\- `server/` - Express.js бэкенд приложение - https://pr25-deploy-2.onrender.com - ссылка
 
 1.1. Структура проекта
 your-project/
