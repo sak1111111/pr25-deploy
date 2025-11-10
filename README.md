@@ -6,7 +6,7 @@
 
 \- `client/` - React фронтенд приложение
 
-\- `server/` - Express.js бэкенд приложение
+\- `server/` - Express.js бэкенд приложение - https://pr25-deploy-2.onrender.com
 
 https://pr25-deploy-2.onrender.com - ссылка
 
